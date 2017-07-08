@@ -1,0 +1,25 @@
+{
+  "name": "node-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "book.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bufferhelper": "^0.2.1",
+    "cheerio": "^0.22.0",
+    "eventproxy": "^0.3.5",
+    "express": "^4.15.3",
+    "iconv-lite": "^0.4.15",
+    "mysql": "^2.13.0",
+    "request": "^2.81.0",
+    "superagent": "^3.5.2",
+    "superagent-charset": "^1.2.0",
+    "url": "^0.11.0"
+  }
+}
