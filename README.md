@@ -5,4 +5,4 @@
 
 用到了superagent、cheerio、mysql、express、async模块，具体说明参考[此博客](http://www.cnblogs.com/tgxh/p/7124202.html)
 
-主要用于自己的[移动书城](https://github.com/tgxhx/vue-reader)项目，结合express构建的api
+主要用于自己的[移动书城](https://github.com/tgxhx/vue-reader)项目，结合express构建的[api](https://github.com/tgxhx/node-book-api)
